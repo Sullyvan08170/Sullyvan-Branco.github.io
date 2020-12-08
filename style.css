@@ -22,7 +22,7 @@ body{background-color: grey;}
 
 #header2{
 			width: 100%;
-			height: 15%;
+			height: 8rem;
 			background-color: #369dff;
 			display: flex;
 			align-items: center;
@@ -30,8 +30,8 @@ body{background-color: grey;}
 		}
 
 #rond{
-		width: 8em;
-		height: 8em;
+		width: 6rem;
+		height: 6rem;
 		background-color: white;
 		border-radius:50%;
 		margin-left: 2%;
@@ -40,8 +40,8 @@ body{background-color: grey;}
 		align-items: center;
 	 }
 #rond img{
-			width: 8em;
-			height: 8em;
+			width: 6rem;
+			height: 6rem;
 			border-radius: 50%;
 		 }
 
@@ -85,7 +85,7 @@ p{
 		  }
 
 #block1{
-			width: 20%;
+			width: 20rem;
 			height: 100vh;
 			background-color: #369dff;
 			float: left;
@@ -98,12 +98,12 @@ p{
 			color: black;
 			}
 #block1 p{
-			font-size: 1.2em;
+			font-size: 1rem;
 		 }
 
 #compétence{
 				width: 100%;
-				height: 4%;
+				height: 2.5rem;
 				background-color: white;
 				display: flex;
 				align-items: center;
@@ -111,15 +111,15 @@ p{
 
 #langue{
 			width: 100%;
-			height: 4%;
+			height: 2.5rem;
 			background-color: white;
 			display: flex;
 			align-items: center;
 		}
 
 .rond2{
-			width: 5em;
-			height: 5em;
+			width: 4rem;
+			height: 4rem;
 			border-radius: 50%;
 			background-color: white;
 			display: flex;
@@ -128,19 +128,19 @@ p{
 	  }
 
 .rond2 img{
-			width: 4em;
-			height: 4em;
+			width: 3rem;
+			height: 3rem;
 			border-radius: 50%;
 		  }
 #langue .rond2 img{
-					width: 5em;
-					height: 5em;
+					width: 4rem;
+					height: 4rem;
 					border-radius: 50%;
 		  			}
 
 #contact{
 			width: 100%;
-			height: 4%;
+			height: 2rem;
 			background-color: white;
 			display: flex;
 			align-items: center;
@@ -149,7 +149,7 @@ p{
 
 #elipse{
 			width: 50%;
-			height: 4em;
+			height: 3.5rem;
 			border-radius: 5px;
 			background-color: white;
 			display: flex;
@@ -161,14 +161,14 @@ p{
 
 
 #block2{
-			width: 5%;
+			width: 5rem;
 			height: 100vh;
 			background-color: lightgrey;
 			float: left;
 		}
 
 #block3{
-			width: 78%;
+			width: 75rem;
 			height: 100vh;
 			background-color: white;
 			float: left;
