@@ -1,0 +1,186 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+body{background-color: grey;}
+
+#page{
+		width: 80%;
+		height: 100vh;
+		margin: auto;
+		background-color: white;
+	 }
+
+#header1{
+			width: 100%;
+			height: 5%;
+			background-color: lightgrey;
+		}
+
+
+
+#header2{
+			width: 100%;
+			height: 15%;
+			background-color: #369dff;
+			display: flex;
+			align-items: center;
+			justify-content: space-around;
+		}
+
+#rond{
+		width: 8em;
+		height: 8em;
+		background-color: white;
+		border-radius:50%;
+		margin-left: 2%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	 }
+#rond img{
+			width: 8em;
+			height: 8em;
+			border-radius: 50%;
+		 }
+
+#container1{
+				width: 80%;
+				height: 100%;
+				display: flex;
+				flex-direction: column;
+				justify-content: space-around;
+			}
+p{
+		font-size: 2em;
+		color: white;
+		margin-left: 13%;
+	  }
+#nom1{
+		width: 100%;
+		height: 50%;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+
+	}
+
+#line{
+		width: 100%;
+		height: 3%;
+		background-color: white;
+	 }
+
+#header3{
+			width: 100%;
+			height: 1%;
+			background-color: lightgrey;	
+		}
+
+#container{
+			width: 100%;
+			height: 100vh;
+			display: flex;
+		  }
+
+#block1{
+			width: 20%;
+			height: 100vh;
+			background-color: #369dff;
+			float: left;
+			display: flex;
+			flex-direction: column;
+			justify-content: space-around;
+		}
+
+#block1 h1{
+			color: black;
+			}
+#block1 p{
+			font-size: 1.2em;
+		 }
+
+#compétence{
+				width: 100%;
+				height: 4%;
+				background-color: white;
+				display: flex;
+				align-items: center;
+			}
+
+#langue{
+			width: 100%;
+			height: 4%;
+			background-color: white;
+			display: flex;
+			align-items: center;
+		}
+
+.rond2{
+			width: 5em;
+			height: 5em;
+			border-radius: 50%;
+			background-color: white;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+	  }
+
+.rond2 img{
+			width: 4em;
+			height: 4em;
+			border-radius: 50%;
+		  }
+#langue .rond2 img{
+					width: 5em;
+					height: 5em;
+					border-radius: 50%;
+		  			}
+
+#contact{
+			width: 100%;
+			height: 4%;
+			background-color: white;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+#elipse{
+			width: 50%;
+			height: 4em;
+			border-radius: 5px;
+			background-color: white;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+
+
+
+#block2{
+			width: 5%;
+			height: 100vh;
+			background-color: lightgrey;
+			float: left;
+		}
+
+#block3{
+			width: 78%;
+			height: 100vh;
+			background-color: white;
+			float: left;
+			display: flex;
+			flex-direction: column;
+			justify-content: space-around;
+		}
+
+#block3 p{
+			color: black;
+			margin-left: 1%;
+			font-size: 1.5em;
+			
+		}
+
